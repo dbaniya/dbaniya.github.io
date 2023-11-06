@@ -25,14 +25,14 @@ description: classes, workshops, and teaching material
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
-          <div class="col-sm-4">
-            Years Taught: 2020 — Today
+          <div class="col-sm-3">
+            2020 till Present
           </div>
-          <div class="col-sm-4">
-            Location: Thapathali Campus
+          <div class="col-sm-6">
+            Institue of Engineering, Thapathali Campus
           </div>
-          <div class="col-sm-4">
-            Responsible: Lectures &amp; labs
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
           </div>
         </div>
       </li>            
