@@ -26,7 +26,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
           <div class="col-sm-2">
-            2020 — Today
+            Years Taught: 2020 — Today
           </div>
           <div class="col-sm-5">
             Thapathali Campus
