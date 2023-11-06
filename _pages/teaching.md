@@ -25,14 +25,14 @@ description: classes, workshops, and teaching material
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             Years Taught: 2020 — Today
           </div>
-          <div class="col-sm-5">
-            Thapathali Campus
+          <div class="col-sm-4">
+            Location: Thapathali Campus
           </div>
-          <div class="col-sm-5">
-            Lectures &amp; labs
+          <div class="col-sm-4">
+            Responsible: Lectures &amp; labs
           </div>
         </div>
       </li>            
