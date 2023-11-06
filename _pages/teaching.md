@@ -26,7 +26,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
           <div class="col-sm-3">
-            2020 till Present
+            2020 – present
           </div>
           <div class="col-sm-6">
             Institue of Engineering, Thapathali Campus
