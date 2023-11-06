@@ -30,7 +30,7 @@ description: classes, workshops, and teaching material
             2020 – present
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Thapathali Campus
+            Institute of Engineering, Thapathali Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
@@ -61,7 +61,7 @@ description: classes, workshops, and teaching material
             2022 – 2023
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Thapathali Campus
+            Institute of Engineering, Thapathali Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
@@ -128,7 +128,7 @@ description: classes, workshops, and teaching material
             2019 – present
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Thapathali Campus
+            Institute of Engineering, Thapathali Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
@@ -159,7 +159,7 @@ description: classes, workshops, and teaching material
             2019 – present
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Thapathali Campus
+            Institute of Engineering, Thapathali Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
@@ -172,7 +172,7 @@ description: classes, workshops, and teaching material
             2015 – 2018
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Pulchowk Campus
+            Institute of Engineering, Pulchowk Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
@@ -217,7 +217,7 @@ description: classes, workshops, and teaching material
             2019 – present
           </div>
           <div class="col-sm-6">
-            Institue of Engineering, Thapathali Campus
+            Institute of Engineering, Thapathali Campus
           </div>
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
