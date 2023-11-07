@@ -214,7 +214,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
           <div class="col-sm-3">
-            2019 – present
+            2018 – 2019
           </div>
           <div class="col-sm-6">
             Institute of Engineering, Thapathali Campus
@@ -227,3 +227,137 @@ description: classes, workshops, and teaching material
     </ul>
   </div>
 </div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Computer Organization and Architecture (CT 603)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2019 – 2020
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Thapathali Campus
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Electronic Devices and Circuits (EX 501)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2017 – 2018
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Pulchowk Campus
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Instrumentatin II (EX 602)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2015 – 2018
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Pulchowk Campus
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2014 – 2015
+          </div>
+          <div class="col-sm-6">
+            Kathmandu Engineering College
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2014 – 2015
+          </div>
+          <div class="col-sm-6">
+            National College of Engineering
+          </div>
+          <div class="col-sm-3">
+            Lectures only
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2013 – 2014
+          </div>
+          <div class="col-sm-6">
+            Sagarmatha Engineering College
+          </div>
+          <div class="col-sm-3">
+            Lectures only
+          </div>
+        </div>
+      </li>                                      
+    </ul>
+  </div>
+</div>
+
