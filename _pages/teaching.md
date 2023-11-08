@@ -295,7 +295,7 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
-        <h5 class="font-weight-bold">Instrumentatin II (EX 602)</h5>
+        <h5 class="font-weight-bold">Instrumentation II (EX 602)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
@@ -361,3 +361,109 @@ description: classes, workshops, and teaching material
   </div>
 </div>
 
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">RF and Microwave Engineering (EX 752)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2016 – 2018
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Pulchowk Campus
+          </div>
+          <div class="col-sm-3">
+            Lab Sessions only
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Communication System I (EX 652)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2014 – 2016
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Pulchowk Campus
+          </div>
+          <div class="col-sm-3">
+            Lab Sessions only
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Communication System II (EX 702)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.E. Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2014 – 2016
+          </div>
+          <div class="col-sm-6">
+            Institute of Engineering, Pulchowk Campus
+          </div>
+          <div class="col-sm-3">
+            Lab Sessions only
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2013 – 2014
+          </div>
+          <div class="col-sm-6">
+            Sagarmatha Engineering College
+          </div>
+          <div class="col-sm-3">
+            Lecture Sessions only
+          </div>
+        </div>
+      </li>                   
+    </ul>
+  </div>
+</div>
