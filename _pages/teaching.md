@@ -89,7 +89,7 @@ description: classes, workshops, and teaching material
       <li class="list-group-item" style="font-size: 15px; padding:0">
         <div class="row">
           <div class="col-sm-3">
-            2022 – 2023
+            2014 – 2015
           </div>
           <div class="col-sm-6">
             Nepal College of Information Technology
