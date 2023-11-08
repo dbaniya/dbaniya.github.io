@@ -264,6 +264,70 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
+        <h5 class="font-weight-bold">Computer Architecture (CSC 208)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.Sc.CSIT Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2017 – 2019
+          </div>
+          <div class="col-sm-6">
+            Deerwalk Institute of Technology
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
+        <h5 class="font-weight-bold">Microprocessor (CSC 162)</h5>
+      </div>
+      <div class="col-sm-3 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        </span>
+      </div>
+    </div>
+    <h6 style="color: blue;"> <b>B.Sc.CSIT Program, Core Course</b></h6>    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size: 15px; padding:0">
+        <div class="row">
+          <div class="col-sm-3">
+            2015 – 2018
+          </div>
+          <div class="col-sm-6">
+            Deerwalk Institute of Technology
+          </div>
+          <div class="col-sm-3">
+            Lectures &amp; Lab Sessions
+          </div>
+        </div>
+      </li>            
+    </ul>
+  </div>
+</div>
+
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-9">
         <h5 class="font-weight-bold">Electronic Devices and Circuits (EX 501)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
@@ -537,7 +601,8 @@ description: classes, workshops, and teaching material
           <div class="col-sm-3">
             Lectures &amp; Lab Sessions
           </div>
-        </div>          
+        </div>
+      </li>          
     </ul>
   </div>
 </div>
