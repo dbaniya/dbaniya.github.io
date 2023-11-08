@@ -690,7 +690,7 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
-        <h5 class="font-weight-bold">Electromagnetic Propagation and Antenna (EX 765 01)</h5>
+        <h5 class="font-weight-bold">Electromagnetic Propagation and Antenna (CMM 371.3)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
@@ -721,7 +721,7 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
-        <h5 class="font-weight-bold">Control System (EX 765 01)</h5>
+        <h5 class="font-weight-bold">Control System (ELE 375.3)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
