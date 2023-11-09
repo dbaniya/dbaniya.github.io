@@ -11,7 +11,7 @@ An up-to-date list is available on Google Scholar.
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h1>Master Theses &amp; Projects</h1>
+<h1 align="right">Master Theses &amp; Projects</h1>
 
 {% bibliography -f papers %}
 
