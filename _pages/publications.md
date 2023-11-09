@@ -21,4 +21,6 @@ An up-to-date list is available on Google Scholar.
 
 <h1>Minor Projects</h1>
 
+{% bibliography -f minor %}
+
 </div>
