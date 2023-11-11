@@ -498,7 +498,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX_752.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
