@@ -328,11 +328,11 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
-        <h5 class="font-weight-bold">Microprocessor (CSC 162)</h5>
+        <h5 class="font-weight-bold">Microprocessor (CSC 153)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/CSC 153.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
