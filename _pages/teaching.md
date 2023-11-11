@@ -147,7 +147,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX 551.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -268,7 +268,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX 603.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -365,7 +365,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX 501.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -396,7 +396,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX 602.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -753,11 +753,11 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-9">
-        <h5 class="font-weight-bold">Electromagnetics (EX 765 01)</h5>
+        <h5 class="font-weight-bold">Electromagnetics (EX 503)</h5>
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/pdf/EX 503.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
