@@ -255,7 +255,7 @@
               src="{{ entry.video | prepend: '/assets/video/' | relative_url }}"
               
               autoplay
-              playsinline
+                playsinline
               muted
               hidden
               ></video>
@@ -272,11 +272,15 @@
                 const canvasInterval = null;
 
                 
-                ctx.drawImage(video, 0, 0, width, height);
+                drawImage(); {
+                  canvas.getContext('2d', {
+                  alpha: false
+                  }).drawImage(video, 0, 0, width, height);
+                }
                 
 
                 canvasInterval = window.setInterval(() => {
-                  ctx.drawImage(video);
+                  drawImage(video);
                 }, 1000 / fps);
 
                 video.onpause = function() {
@@ -290,7 +294,7 @@
                 video.onplay = function() {
                   clearInterval(canvasInterval);
                   canvasInterval = window.setInterval(() => {
-                    ctx.drawImage(video);
+                    drawImage(video);
                   }, 1000 / fps);
                 };
               </script>
