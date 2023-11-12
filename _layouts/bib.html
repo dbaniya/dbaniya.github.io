@@ -245,7 +245,7 @@
               </a>
               {%- else -%}
 
-              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicturecontrolsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
               {%- endif %}  
           
             </div>
