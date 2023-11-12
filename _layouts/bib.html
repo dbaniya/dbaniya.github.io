@@ -245,63 +245,8 @@
               </a>
               {%- else -%}
 
-              <!--<video src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" style="border:1px solid #770f0f; min-height: 300px;" controls width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video> -->
-
-              <body>
-
-              <!--<video src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" controls controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" hidden>IFRAMES blocked. You see this instead...</video>-->
-              
-              <video
-              src="{{ entry.video | prepend: '/assets/video/' | relative_url }}"
-              
-              autoplay
-                playsinline
-              muted
-              hidden
-              ></video>
-             
-
-              <canvas width="1280" height="720" ></canvas>
-              <script type = "text/javascript">
-                var video = document.querySelector('video');
-                var canvas = document.querySelector('canvas');
-                var ctx = canvas.getContext('2d',{alpha:false});
-                const fps = 60;
-                const width = 1280;
-                const height = 720;
-                const canvasInterval = null;
-
-                
-                drawImage(); {
-                  canvas.getContext('2d', {
-                  alpha: false
-                  }).drawImage(video, 0, 0, width, height);
-                }
-                
-
-                canvasInterval = window.setInterval(() => {
-                  drawImage(video);
-                }, 1000 / fps);
-
-                video.onpause = function() {
-                  clearInterval(canvasInterval);
-                };
-
-                video.onended = function() {
-                  clearInterval(canvasInterval);
-                };
-
-                video.onplay = function() {
-                  clearInterval(canvasInterval);
-                  canvasInterval = window.setInterval(() => {
-                    drawImage(video);
-                  }, 1000 / fps);
-                };
-              </script>
-
-
-              </body>
-              
+              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" style="border:1px solid #770f0f; min-height: 300px;" controls width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+      
 
 
               {%- endif %}
