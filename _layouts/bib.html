@@ -251,27 +251,25 @@
               <video id = "v" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" controls controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" hiden>IFRAMES blocked. You see this instead...</video>
               <canvas id = "c"></canvas>
               <script type = "text/javascript">
-                var canvas = document.querySelector ("canvas")
-                var ctx = canvas.getContext("2d")
-
-                document.addEventListener('DOMContentLoaded',function(){
-                  var v = document.querySelector('#v');
-                  var canvas = document.querySelector('#c');
-                  var ctx = canvas.getContext('2d');
-
-                  v.addEventListener('loadedmetadata',function(){
-                    canvas.width = this.videowidth;
-                    canvas.height = this.videoHeight;
-                  });
-
-                  var draw = function(){
-                    canvas.getContext('2d').drawImage(v,0,0);
-                  }
-                  v.addEventListener('play',function(){
-                    if(v.paused || v.ended) return;
-                    draw();
-                  });
-                });
+                const canvas = document.querySelector('#c');
+                  const video = document.querySelector('#v');
+                  const fps = 60;
+                  const width = 1280;
+                  const height = 720;
+                  const canvasInterval = null;drawImage() {
+                    canvas.getContext('2d', { alpha: false }).drawImage(video, 0, 0, width, height);
+                  }canvasInterval = window.setInterval(() => {
+                    drawImage(video);
+                  }, 1000 / fps);video.onpause = function() {
+                    clearInterval(canvasInterval);
+                  };video.onended = function() {
+                    clearInterval(canvasInterval);
+                  };video.onplay = function() {
+                    clearInterval(canvasInterval);
+                    canvasInterval = window.setInterval(() => {
+                      drawImage(video);
+                    }, 1000 / fps);
+                  };
               </script>
 
 
