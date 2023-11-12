@@ -245,17 +245,8 @@
               </a>
               {%- else -%}
 
-              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" style="border:1px solid #770f0f; min-height: 300px;" controls controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
-
-                  
-              
-              
-              
-
-
-              {%- endif %}
-
-          
+              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" target="_blank" rel="noopener noreferrer" style="border:1px solid #770f0f; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              {%- endif %}  
           
             </div>
           {%- endif -%}
