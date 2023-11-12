@@ -263,22 +263,20 @@
 
               <canvas width="1280" height="720" ></canvas>
               <script type = "text/javascript">
-                const canvas = document.querySelector('canvas');
-                const video = document.querySelector('video');
+                var video = document.querySelector('video');
+                var canvas = document.querySelector('canvas');
+                var ctx = canvas.getContext('2d',{alpha:false});
                 const fps = 60;
                 const width = 1280;
                 const height = 720;
                 const canvasInterval = null;
 
-                ctx = canvas.getContext('2d', {
-                    alpha: false
-                  });
                 
                 ctx.drawImage(video, 0, 0, width, height);
                 
 
                 canvasInterval = window.setInterval(() => {
-                  drawImage(video);
+                  ctx.drawImage(video);
                 }, 1000 / fps);
 
                 video.onpause = function() {
