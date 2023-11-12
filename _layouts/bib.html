@@ -241,11 +241,11 @@
           
               {% if entry.video contains '://' -%}
               <a href="{{ entry.video }}">
-                <video style='border: none; min-height: 300px; width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+                <video style='border: 1px solid #770f0f'; min-height: 300px; width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
               </a>
               {%- else -%}
 
-              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" rel="noopener noreferrer" style="border:1px solid #770f0f; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              <video oncontextmenu="return false;" src = "{{ entry.video | prepend: '/assets/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicturecontrolsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
               {%- endif %}  
           
             </div>
