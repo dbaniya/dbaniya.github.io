@@ -280,7 +280,7 @@
                 video.onplay = function() {
                   clearInterval(canvasInterval);
                   canvasInterval = window.setInterval(() => {
-                    drawImage(video);
+                    ctx.drawImage(video);
                   }, 1000 / fps);
                 };
               </script>
