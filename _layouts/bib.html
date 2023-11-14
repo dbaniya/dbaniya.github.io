@@ -144,6 +144,21 @@
           {%- if entry.video %}
             <a class="video btn btn-sm z-depth-0" role="button">VIDEO</a>
           {%- endif %}
+
+          {%- if entry.video-1 %}
+          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-1</a>
+          {%- endif %}
+
+          
+          {%- if entry.video-2 %}
+          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-2</a>
+          {%- endif %}
+
+          {%- if entry.video-3 %}
+          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-3</a>
+          {%- endif %}
+
+
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
@@ -250,6 +265,25 @@
           
             </div>
           {%- endif -%}
+
+          {% if entry.video-1 -%}
+          <!-- Hidden video block -->
+          <div class="video hidden">
+            <!--<p>{{ entry.video }}</p>-->
+            <!---<video style="border:none; min-height: 300px;" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</iframe>-->
+          
+              {% if entry.video-1 contains '://' -%}
+              <a href="{{ entry.video-1 }}">
+                <video style='border: 1px solid #770f0f'; min-height: 300px; width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              </a>
+              {%- else -%}
+
+              <video oncontextmenu="return false;" src = "{{ entry.video-1 | prepend: '/assets/projects/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              {%- endif %}  
+          
+            </div>
+          {%- endif -%}
+
 
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
