@@ -284,7 +284,7 @@
                width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" 
                allowfullscreen="">IFRAMES blocked. You see this instead...>
               <source class="active" src = "{{ entry.videos | prepend: '/assets/projects/video/' | relative_url }}" type="video/mp4" /> 
-              <source class="active" src = "{{ entry.videos | prepend: '/assets/projects/video/' | relative_url }}" type="video/mp4" />             
+              <source src = "{{ entry.videos | prepend: '/assets/projects/video/' | relative_url }}" type="video/mp4" />             
                             
               </video>
               {%- endif %}
