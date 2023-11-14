@@ -145,19 +145,11 @@
             <a class="video btn btn-sm z-depth-0" role="button">VIDEO</a>
           {%- endif %}
 
-          {%- if entry.video-1 %}
-          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-1</a>
+          {%- if entry.videos %}
+          <a class="video btn btn-sm z-depth-0" role="button">VIDEOS</a>
           {%- endif %}
 
-          
-          {%- if entry.video-2 %}
-          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-2</a>
-          {%- endif %}
-
-          {%- if entry.video-3 %}
-          <a class="video btn btn-sm z-depth-0" role="button">VIDEO-3</a>
-          {%- endif %}
-
+         
 
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
