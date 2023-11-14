@@ -285,6 +285,43 @@
           {%- endif -%}
 
 
+          {% if entry.video-2 -%}
+          <!-- Hidden video block -->
+          <div class="video hidden">
+            <!--<p>{{ entry.video }}</p>-->
+            <!---<video style="border:none; min-height: 300px;" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</iframe>-->
+          
+              {% if entry.video-2 contains '://' -%}
+              <a href="{{ entry.video-1 }}">
+                <video style='border: 1px solid #770f0f'; min-height: 300px; width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              </a>
+              {%- else -%}
+
+              <video oncontextmenu="return false;" src = "{{ entry.video-2 | prepend: '/assets/projects/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              {%- endif %}  
+          
+            </div>
+          {%- endif -%}
+
+          {% if entry.video-3 -%}
+          <!-- Hidden video block -->
+          <div class="video hidden">
+            <!--<p>{{ entry.video }}</p>-->
+            <!---<video style="border:none; min-height: 300px;" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</iframe>-->
+          
+              {% if entry.video-3 contains '://' -%}
+              <a href="{{ entry.video-1 }}">
+                <video style='border: 1px solid #770f0f'; min-height: 300px; width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              </a>
+              {%- else -%}
+
+              <video oncontextmenu="return false;" src = "{{ entry.video-3 | prepend: '/assets/projects/video/' | relative_url }}" rel="noopener noreferrer" style="border:none; min-height: 300px;" controls disablePictureInPicture controlsList="nodownload" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen="">IFRAMES blocked. You see this instead...</video>
+              {%- endif %}  
+          
+            </div>
+          {%- endif -%}
+
+
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
