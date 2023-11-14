@@ -18,7 +18,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_802_Co2.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_802_Co2.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -49,7 +49,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_852_Co1.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_852_Co1.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -80,7 +80,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/COM_613.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/COM_613.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -116,7 +116,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CT_725_02.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CT_725_02.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -147,7 +147,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_551.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_551.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -205,7 +205,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_703.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_703.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -237,7 +237,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CT_603.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CT_603.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -268,7 +268,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_603.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_603.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -301,7 +301,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CSC_208.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CSC_208.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -332,7 +332,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CSC_153.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CSC_153.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -365,7 +365,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_501.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_501.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -396,7 +396,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_601.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_601.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -428,7 +428,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_602.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_602.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -498,7 +498,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_752.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_752.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -530,7 +530,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_652.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_652.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -561,7 +561,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_702.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_702.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -605,7 +605,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CT_655.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CT_655.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -649,7 +649,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CT_602.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CT_602.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -681,7 +681,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_451.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_451.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -713,7 +713,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_765_01.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_765_01.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -758,7 +758,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/CMM_371.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/CMM_371.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -789,7 +789,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/ELE_375.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/ELE_375.3.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
@@ -821,7 +821,7 @@ description: classes, workshops, and teaching material
       </div>
       <div class="col-sm-3 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-        <a href="/assets/pdf/EX_503.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
+        <a href="/assets/syllabus/EX_503.pdf" target="_blank" rel="noopener noreferrer" style="font-size: 15px; color:#FFFFFF;">Syllabus</a>          
         </span>
       </div>
     </div>
