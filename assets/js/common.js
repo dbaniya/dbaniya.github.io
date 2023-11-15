@@ -7,7 +7,7 @@ $(document).ready(function() {
 
   });
   $('a.video').click(function() {
-    $(this).parent().parent().find(".video.hidden").toggleClass('open');
+    $(this).parent().parent().find(".video.hidden").toggleClass('open',$('#video').trigger('pause'));
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass('open');
 
