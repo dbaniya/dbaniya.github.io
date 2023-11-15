@@ -14,14 +14,14 @@ $(document).ready(function() {
   });
 
   $('a.video-1').click(function() {
-    $(this).parent().parent().find(".video-1.hidden").toggleClass('open',$(this)[0].trigger('pause'));
-    $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open',$(this)[0].trigger('pause'));
+    $(this).parent().parent().find(".video-1.hidden").toggleClass('open',$('#video-1')[0].trigger('pause'));
+    $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open',$('#video-2')[0].trigger('pause'));
    
   });
 
   $('a.video-2').click(function() {
-    $(this).parent().parent().find(".video-2.hidden").toggleClass('open',$(this)[0].trigger('pause'));
-    $(this).parent().parent().find(".video-1.hidden.open").toggleClass('open',$(this)[0].trigger('pause'));
+    $(this).parent().parent().find(".video-2.hidden").toggleClass('open',$('#video-2')[0].trigger('pause'));
+    $(this).parent().parent().find(".video-1.hidden.open").toggleClass('open',$('#video-1')[0].trigger('pause'));
   });
 
     $('a.bibtex').click(function() {
