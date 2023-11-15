@@ -16,6 +16,13 @@ $(document).ready(function() {
   $('a.video-1').click(function() {
     $(this).parent().parent().find(".video-1.hidden").toggleClass('open');
     $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open');
+    $('a.video-1').each(function() {
+      if ($(this).visible(true)) {
+          $(this)[0].play();
+      } else {
+          $(this)[0].pause();
+      }
+      })
   });
 
   $('a.video-2').click(function() {
