@@ -146,7 +146,7 @@
           {% if entry.article contains '://' -%}
           <a href="{{ entry.article }}" class="btn btn-sm z-depth-0" role="button">Article</a>
           {%- else -%}
-          <a href="{{ entry.article | prepend: '/assets/projects/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          <a href="{{ entry.article | prepend: '/assets/projects/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Article</a>
           {%- endif %}
           {%- endif %}
 
