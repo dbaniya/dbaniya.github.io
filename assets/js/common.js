@@ -7,21 +7,31 @@ $(document).ready(function() {
 
   });
   $('a.video').click(function() {
-    $(this).parent().parent().find(".video.hidden").toggleClass('open',$('#video').trigger('pause'));
+    $(this).parent().parent().find(".video.hidden").toggleClass('open',$(this).parent().parent().find(".video").trigger('pause'));
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass('open');
 
   });
 
   $('a.video-1').click(function() {
-    $(this).parent().parent().find(".video-1.hidden").toggleClass('open',$('#video-1')[0].trigger('pause'));
-    $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open',$('#video-2')[0].trigger('pause'));
-   
+    $(this).parent().parent().find(".video-1.hidden").toggleClass('open',$(this).parent().parent().find(".video-1").trigger('pause'));
+    $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-2").trigger('pause'));
+    $(this).parent().parent().find(".video-3.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-3").trigger('pause'));
   });
 
   $('a.video-2').click(function() {
-    $(this).parent().parent().find(".video-2.hidden").toggleClass('open',$('#video-2')[0].trigger('pause'));
-    $(this).parent().parent().find(".video-1.hidden.open").toggleClass('open',$('#video-1')[0].trigger('pause'));
+    $(this).parent().parent().find(".video-2.hidden").toggleClass('open',$(this).parent().parent().find(".video-2").trigger('pause'));
+    $(this).parent().parent().find(".video-1.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-1").trigger('pause'));
+    $(this).parent().parent().find(".video-3.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-3").trigger('pause'));
+
+  });
+
+  
+  $('a.video-3').click(function() {
+    $(this).parent().parent().find(".video-3.hidden").toggleClass('open',$(this).parent().parent().find(".video-3").trigger('pause'));
+    $(this).parent().parent().find(".video-1.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-1").trigger('pause'));
+    $(this).parent().parent().find(".video-2.hidden.open").toggleClass('open',$(this).parent().parent().find(".video-2").trigger('pause'));
+
   });
 
     $('a.bibtex').click(function() {

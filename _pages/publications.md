@@ -15,11 +15,11 @@ An up-to-date list is available on Google Scholar.
 
 {% bibliography -f papers %}
 
-<h1>Bachelor Projects (4<sup>th</sup> Year)</h1>
+<h1>Bachelor Projects (Major)</h1>
 
 {% bibliography -f major %}
 
-<h1>Bachelor Projects (3<sup>rd</sup> Year)</h1>
+<h1>Bachelor Projects (Minor)</h1>
 
 {% bibliography -f minor %}
 
