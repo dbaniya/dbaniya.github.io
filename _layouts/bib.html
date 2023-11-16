@@ -153,6 +153,24 @@
           <a href="{{ entry.article | prepend: '/assets/projects/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Article</a>
           {%- endif %}
           {%- endif %}
+
+          {%- if entry.article-1 %}
+          {% if entry.article-1 contains '://' -%}
+          <a href="{{ entry.article-1 }}" class="btn btn-sm z-depth-0" role="button">Article-1</a>
+          {%- else -%}
+          <a href="{{ entry.article-1 | prepend: '/assets/projects/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Article-1</a>
+          {%- endif %}
+          {%- endif %}
+
+
+          {%- if entry.article-2 %}
+          {% if entry.article-2 contains '://' -%}
+          <a href="{{ entry.article-2 }}" class="btn btn-sm z-depth-0" role="button">Article-2</a>
+          {%- else -%}
+          <a href="{{ entry.article-2 | prepend: '/assets/projects/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Article-2</a>
+          {%- endif %}
+          {%- endif %}
+
           
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
