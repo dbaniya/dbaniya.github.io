@@ -5,8 +5,10 @@ title: Teaching
 nav: Teaching
 nav: true
 nav_order: 1
-description: classes, workshops, and teaching material
+description: Lists all courses that I have taught during my professional academic career.
 ---
+An up-to-date list is available on Google Scholar.
+
 
 <h3 class="mt-4">Graduate Courses </h3>
 
