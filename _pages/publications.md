@@ -2,11 +2,11 @@
 layout: page
 permalink: /research/
 title: Supervised Research
-description: Lists all the projects and theses that I have mentored in reverse chronological order.
+description: This page lists all the projects and theses that I have mentored during my professional academic career.
 nav: true
 nav_order: 2
 ---
-An up-to-date list is available on Google Scholar.
+The acronyms found on this page such as MSIISE, BEI, and BCT stand for M.Sc. in Informatics and Intelligent Systems Engineering, Bachelor in Electronics, Communication and Information Engineering, and Bachelor in Computer Engineering respectively. For each research work, the information provided include published articles (if available), slides, and videos (if available).
 
 <!-- _pages/publications.md -->
 <div class="publications">
