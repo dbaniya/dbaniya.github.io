@@ -5,9 +5,9 @@ title: Teaching
 nav: Teaching
 nav: true
 nav_order: 1
-description: Lists all courses that I have taught during my professional academic career.
+description: This page lists all the courses that I have taught during my professional academic career.
 ---
-An up-to-date list is available on Google Scholar.
+For each course, the information provided include: Course Name, Course Level (graduate / undergraduate), Course Code, Course Type (core / elective), Year of Instruction, Place of Instruction, Sessions Conducted (lectures / labs), and Detailed Syllabus (viewable / donwloadable).
 
 
 <h3 class="mt-4">Graduate Courses </h3>
