@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 description: This page lists all the courses that I have taught during my professional academic career.
 ---
-For each course, the information provided include: Course Name, Course Level (graduate / undergraduate), Course Code, Course Type (core / elective), Year of Instruction, Place of Instruction, Sessions Conducted (lectures / labs), and Detailed Syllabus (viewable / donwloadable).
+For each course, the information provided include: Course Name, Course Level (graduate / undergraduate), Course Code, Course Type (core / elective), Year of Instruction, Place of Instruction, Sessions Conducted (lectures / labs), and Detailed Syllabus (viewable / downloadable).
 
 
 <h3 class="mt-4">Graduate Courses </h3>
