@@ -27,4 +27,4 @@ Previously, my professional engagement included an approximate nine-month stint 
 
 Regarding my educational background, I received my Bachelor of Science in Electrical &amp; Computer Engineering from the [University of Minnesota, Duluth](https://www.d.umn.edu/) in 2008, Master of Engineering in Electrical Engineering from [Princeton University](https://www.princeton.edu/) in 2009, and Master of Science in Electrical Engineering from [Stanford University](https://www.stanford.edu/) in 2011.
 
-<a href="https://mapmyvisitors.com/web/1bw0b"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=zxiY2w1MAu1AZO_mbcXeDEXZ0Tx5pCuwkiCeyZmCj0Q&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eDZlkcnMvbQqDEEMGee5mMY1dxUcAv7BmCQd8P_8LTc&cl=ffffff&w=a"></script>
