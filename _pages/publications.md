@@ -25,4 +25,4 @@ The acronyms found on this page such as MSIISE, BEI, BEX and BCT stand for M.Sc.
 
 </div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eDZlkcnMvbQqDEEMGee5mMY1dxUcAv7BmCQd8P_8LTc&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=eDZlkcnMvbQqDEEMGee5mMY1dxUcAv7BmCQd8P_8LTc'></script>
