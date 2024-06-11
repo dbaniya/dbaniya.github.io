@@ -23,7 +23,7 @@ Over the years, I have taught extensively at both the undergraduate and graduate
 
 Previously, my professional engagement included an approximate nine-month stint (early to late 2018) as an assistant director at the [Nepal Telecommunications Authority](https://www.nta.gov.np/), where I was part of the frequency management section. Prior to my corporate experience, I worked for approximately five years (2012 till 2017) as an adjunct lecturer in the department of Electronics and Computer Engineering at the Institute of Engineering, [Pulchowk Campus](https://pcampus.edu.np/).
 
-Regarding my educational background, I received my Bachelor of Science in Electrical &amp; Computer Engineering from the [University of Minnesota, Duluth](https://www.d.umn.edu/) in 2008, Master of Engineering in Electrical Engineering from [Princeton University](https://www.princeton.edu/) in 2009, and Master of Science in Electrical Engineering from [Stanford University](https://www.stanford.edu/) in 2011.
+Regarding my educational background, I received my Bachelor of Science in Electrical &amp; Computer Engineering from the [University of Minnesota, Duluth](https://www.d.umn.edu/) in 2008 and Master of Science in Electrical Engineering from [Stanford University](https://www.stanford.edu/) in 2011.
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=eDZlkcnMvbQqDEEMGee5mMY1dxUcAv7BmCQd8P_8LTc'></script>
