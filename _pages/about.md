@@ -6,7 +6,7 @@ subtitle: <a href='https://ioe.tu.edu.np'>Institue of Engineering</a>, <a href='
 
 profile:
   align: right
-  image: phot_DBK.jpg
+  image: photo_DBK.jpg
   image_circular: true # crops the image to make it circular
     
 news: false  # includes a list of news items
