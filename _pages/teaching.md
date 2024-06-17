@@ -806,7 +806,7 @@ For each course, the information provided include: Course Name, Course Level (gr
             Nepal College of Information Technology
           </div>
           <div class="col-sm-3">
-            Lectures only
+            Lectures &amp; Lab Sessions
           </div>
         </div>
       </li>                         
